@@ -1,7 +1,11 @@
 # Hunter
 
 Game with fixed camera, in which the player can shoot moving elements.
+
 Increasing difficulty throughout the levels, bonus level between each one allowing to recover life points.
+
+
+-- Libray CSFML
 
 ## Compiling
 You will need the standard libC and Make.
